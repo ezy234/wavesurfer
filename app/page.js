@@ -66,7 +66,6 @@ export default function Home() {
       wavesurfer.skip(-2);
     }
   };
-
   return (
     <div className="container">
       <div className="sub-container">
@@ -96,3 +95,4 @@ export default function Home() {
     </div>
   );
 }
+// Song Credit: YoungMin You
